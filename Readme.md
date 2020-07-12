@@ -1,7 +1,7 @@
-# Личный проект «YetiCave»
+# Личный проект «Дела в Порядке»
 
 * Студент: [Сергей Малугин](https://up.htmlacademy.ru/php/12/user/156314).
-* Наставник: `Неизвестно`.
+* Наставник:[Александр Шибистый](https://htmlacademy.ru/profile/id1327567).
 
 ---
 
@@ -26,17 +26,17 @@ _`.editorconfig`, `.gitattributes`, `.gitignore`._
 
 Откройте репозиторий и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии будет скопирован в ваш аккаунт.
 
-<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/35516424-ce867188-051c-11e8-86a4-a15271522046.png">
+<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/35516479-f4a65d24-051c-11e8-9177-a103fa2e8515.png">
 
 Получится вот так:
 
-<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/35516426-cea57ef2-051c-11e8-8367-5d13468301bf.png">
+<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/35516478-f4892812-051c-11e8-9452-89bad64d6d32.png">
 
 #### 3. Клонируйте репозиторий на свой компьютер
 
 Будьте внимательны: нужно клонировать свой репозиторий (форк), а не репозиторий Академии. Также обратите внимание, что клонировать репозиторий нужно через SSH, а не через HTTPS. Нажмите зелёную кнопку в правой части экрана, чтобы скопировать SSH-адрес вашего репозитория:
 
-<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/35516427-cec04e08-051c-11e8-8a2f-ae02263585d3.png">
+<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/35516477-f46a8222-051c-11e8-9581-319b34b65f90.png">
 
 Клонировать репозиторий можно так:
 
